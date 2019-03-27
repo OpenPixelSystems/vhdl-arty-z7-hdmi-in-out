@@ -1,0 +1,37 @@
+$date
+        2019-Feb-13 09:55:04
+$end
+$version
+        Vivado v2018.3 (64-bit)
+$end
+$timescale
+        1ps
+$end
+$scope module dut $end
+$var reg 24 " hdmi_in_i/v_axi4s_vid_out_0/vid_data [23:0] $end
+$var reg 13 : u_ila_1_fifo_eol_cnt_reg [12:0] $end
+$var reg 13 G u_ila_1_fifo_pix_cnt_reg [12:0] $end
+$var reg 4 T u_ila_1_state_reg [3:0] $end
+$var reg 1 X hdmi_in_i/v_axi4s_vid_out_0/vid_active_video $end
+$var reg 1 Y hdmi_in_i/v_axi4s_vid_out_0/vid_hsync $end
+$var reg 1 Z hdmi_in_i/v_axi4s_vid_out_0/vid_vsync $end
+$var reg 1 [ _TRIGGER $end
+$var reg 1 \ _WINDOW $end
+$var reg 1 ] _GAP $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b0 "
+b0 :
+b0 G
+b0 T
+0X
+0Y
+0Z
+0[
+1\
+0]
+$end
+#4096
+1[

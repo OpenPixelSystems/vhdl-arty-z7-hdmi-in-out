@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="/home/bcatteau/Projects/Digilent/stage_two/vivado_proj/Arty-Z7-20-hdmi-in.hw/hw_1/wave/hw_ila_data_1/hw_ila_data_1.wdb" id="1">
+         <top_modules>
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="1583050fs"></ZoomStartTime>
+      <ZoomEndTime time="1666601fs"></ZoomEndTime>
+      <Cursor1Time time="1586000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="339"></NameColumnWidth>
+      <ValueColumnWidth column_width="74"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="10" />
+   <wave_markers>
+   </wave_markers>
+   <wvobject type="logic" fp_name="u_ila_0_axis_in_tvalid">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_ila_0_axis_in_tvalid</obj_property>
+      <obj_property name="ObjectShortName">u_ila_0_axis_in_tvalid</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="u_ila_0_axis_out_tvalid">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_ila_0_axis_out_tvalid</obj_property>
+      <obj_property name="ObjectShortName">u_ila_0_axis_out_tvalid</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="u_ila_0_axis_out_tready">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_ila_0_axis_out_tready</obj_property>
+      <obj_property name="ObjectShortName">u_ila_0_axis_out_tready</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="hdmi_in_i/ov5640_modder_0/U0/video_probe0_xy_position0_pix_counter_reg">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">hdmi_in_i/ov5640_modder_0/U0/video_probe0_xy_position0_pix_counter_reg[15:0]</obj_property>
+      <obj_property name="ObjectShortName">video_probe0_xy_position0_pix_counter_reg[15:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="hdmi_in_i/ov5640_modder_0/axis_in_tlast">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">hdmi_in_i/ov5640_modder_0/axis_in_tlast</obj_property>
+      <obj_property name="ObjectShortName">axis_in_tlast</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="hdmi_in_i/ov5640_modder_0/U0/video_probe0_xy_position0_eol_d">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">hdmi_in_i/ov5640_modder_0/U0/video_probe0_xy_position0_eol_d</obj_property>
+      <obj_property name="ObjectShortName">video_probe0_xy_position0_eol_d</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="hdmi_in_i/ov5640_modder_0/U0/video_probe0_xy_position0_sof_d_reg_n_0">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">hdmi_in_i/ov5640_modder_0/U0/video_probe0_xy_position0_sof_d_reg_n_0</obj_property>
+      <obj_property name="ObjectShortName">video_probe0_xy_position0_sof_d_reg_n_0</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="hdmi_in_i/ov5640_modder_0/axis_in_tuser">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">hdmi_in_i/ov5640_modder_0/axis_in_tuser</obj_property>
+      <obj_property name="ObjectShortName">axis_in_tuser</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="hdmi_in_i/ov5640_modder_0/axis_out_tuser">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">hdmi_in_i/ov5640_modder_0/axis_out_tuser</obj_property>
+      <obj_property name="ObjectShortName">axis_out_tuser</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="hdmi_in_i/ov5640_modder_0/axis_out_tlast">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">hdmi_in_i/ov5640_modder_0/axis_out_tlast</obj_property>
+      <obj_property name="ObjectShortName">axis_out_tlast</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+</wave_config>

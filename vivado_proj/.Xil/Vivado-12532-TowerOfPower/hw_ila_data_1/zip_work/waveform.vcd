@@ -1,0 +1,49 @@
+$date
+        2019-Jan-16 17:36:50
+$end
+$version
+        Vivado v2018.3 (64-bit)
+$end
+$timescale
+        1ps
+$end
+$scope module dut $end
+$var reg 4 " \hdmi_in_i/hdmi2rgb_0/U0/DataDecoders[0].DecoderX/PhaseAlignX/pState_1 [3:0] $end
+$var reg 6 & \hdmi_in_i/hdmi2rgb_0/U0/DataDecoders[0].DecoderX/PhaseAlignX/pState [10:5] $end
+$var reg 27 , hdmi_in_i/hdmi2rgb_0/U0/DI [26:0] $end
+$var reg 1 G _TRIGGER $end
+$var reg 1 H _WINDOW $end
+$var reg 1 I _GAP $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b0 "
+b10000 &
+b1000000000000000000000000 ,
+0G
+1H
+0I
+$end
+#493
+b0 ,
+#863
+b1000000000000000000000000 ,
+#2143
+b0 ,
+#2513
+b1000000000000000000000000 ,
+#3793
+b0 ,
+#4096
+1G
+#4163
+b1000000000000000000000000 ,
+#5443
+b0 ,
+#5813
+b1000000000000000000000000 ,
+#7093
+b0 ,
+#7463
+b1000000000000000000000000 ,
