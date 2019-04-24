@@ -12,5 +12,5 @@ This project is structured to be used with our generic [build scripts](https://g
 git clone git@github.com:OpenPixelSystems/makefile-vivado-project.git
 git clone git@github.com:OpenPixelSystems/arty-z7-hdmi-in-out.git
 cd makefile-vivado-project
-REPO_DIR=<ip_dir> ORIGIN_DIR=../arty-z7-hdmi-in-out/vivado_proj/ make build_proj
+REPO_DIR=<ip_dir> ORIGIN_DIR=../arty-z7-hdmi-in-out/vivado_proj/ make all
 ```
